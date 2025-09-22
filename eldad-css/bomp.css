@@ -1,0 +1,74 @@
+h1   {
+ text-align: center;
+ font-size:  80px; 
+ color:blueviolet;
+ text-decoration:underline
+}
+.container-bot  {
+   text-align : center
+}
+
+.bot2  { 
+  background-color: rgb(0, 255, 250);
+  margin-left : 50px;
+  font-size : 20px;
+  margin-right : 50px
+} 
+.bot3  { 
+  background-color: rgb(0, 200, 98);
+  margin-left : 10px;
+  font-size : 20px;
+}  
+table ,td {
+    margin-top: 4px;
+    border : 1px solid black;
+    border-collapse: collapse;
+    margin: 100px auto;
+    margin-bottom: 2px;
+}    
+.cell-4   {
+   width:90px;
+   height:90px;
+   font-size: 60px;
+  text-align:center;
+ 
+}
+.cell-8  { 
+ width:50px;
+ height:50px;
+  font-size: 30px;
+  text-align:center
+}   
+.cell-12  { 
+ width:30px;
+ height:30px;
+ font-size: 20px;
+ text-align:center
+} 
+.piccry  {
+  width:50px;
+  height:50px;
+   
+
+} 
+.lost   {
+  display:none;
+  text-align:center;
+  font-size: 40px;
+}
+.lost span {
+  background-color: rgb(42, 165, 63);
+  font-size: 70px;
+}
+.level {
+  display:inline-block;
+  margin-top :2px;
+  background-color:rgb(0, 255, 81); 
+   
+  font-size:40px;
+}
+.levelcenter {
+   text-align:center;
+
+}
+ 
